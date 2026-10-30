@@ -16,12 +16,12 @@
       "category": "entertainment",
       "versions": [
         {
-          "version": "1.0.8",
-          "buildVersion": "8",
-          "date": "2026-10-30T14:31:11Z",
-          "localizedDescription": "Build 8",
-          "downloadURL": "https://github.com/alekindrefdez/undertow-ios/releases/download/v1.0.8/Undertow.ipa",
-          "size": 538543,
+          "version": "1.0.9",
+          "buildVersion": "9",
+          "date": "2026-10-30T16:06:36Z",
+          "localizedDescription": "Build 9",
+          "downloadURL": "https://github.com/alekindrefdez/undertow-ios/releases/download/v1.0.9/Undertow.ipa",
+          "size": 538544,
           "minOSVersion": "15.0"
         }
       ],
